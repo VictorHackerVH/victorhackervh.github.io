@@ -1,1 +1,1 @@
-Das hier ist ne Unterseite, die von [[index]] :)  
+Das hier ist ne Unterseite, die von [[index]] kommt :)  
