@@ -1,0 +1,14 @@
+Alle Zusammenfassungen für Programmieren: 
+- [[Kapitel 1 - Einführung]]
+	- Algorithmus
+	- Programmierung Grundbegriffe
+	- Darstellungsformen von Code:
+- [[Kapitel 2 - Grundlagen von Java]]
+	- Eigenschaften von Java
+	- Compiler, Linker, Interpreter
+	- Vom Quellcode zur Ausführung
+	- Wesentliche Java Tools
+	- Wichtige Systemvariablen
+- [[Kapitel 3 - Datentypen]]
+- [[Kapitel 4 - Ausdrücke und Anweisungen]]
+- [[Kapitel 5 - Objektorientierung]]
