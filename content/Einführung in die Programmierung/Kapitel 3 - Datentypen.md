@@ -1,3 +1,7 @@
+Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
+
+Letztes Kapitel: [[Kapitel 2 - Grundlagen von Java]]
+Nächstes Kapitel: [[Kapitel 4 - Ausdrücke und Anweisungen]]
 # Lernziele
 - Sie kennen die unterschiedlichen einfachen Datentypen in Java
 - Sie kennen die Wertebereiche der jeweiligen Datentypen
@@ -18,7 +22,7 @@
 		- Double und Float: Menge der reellen Zahlen
 	- alphanumerisch
 		- Char: Menge der vereinbarten Schriftzeichen, z.B. ASCII-Zeichensatz
-- komplexe Datentypen
+- [[Kapitel 3 - Datentypen#Referenzdatentypen|komplexe Datentypen]]
 	- Referenzdatentypen: Individuell definierte Datentypen
 		- String: Verkettung von Character-Werten ⇒ Zeichenketten
 		- Array: Definition eines n-dimensionalen Feldes
@@ -76,4 +80,11 @@ int[][] matrix = new int[3][3];
 ```
 
 ## Referenzdatentypen
-- im Gegensatz zu einfachen Datentypen handelt es sich hierbei um komplex Datentypen
+- im Gegensatz zu einfachen Datentypen handelt es sich hierbei um komplex Typen
+- zu den Referenztypen zählen
+	- Objekte ([[Kapitel 5 - Objektorientierung]])
+	- Strings
+	- Arrays
+- Strings und Arrays sind besondere Objekte
+- bei einfachen Datentypen reicht die Deklaration der Variablen aus, während Referenztypen mittels des new-Operators noch erzeugt werden müssen (Ausnahmen Strings und Arrays)
+- Referenztypen stellen lediglich einen Verweis auf Objekte dar

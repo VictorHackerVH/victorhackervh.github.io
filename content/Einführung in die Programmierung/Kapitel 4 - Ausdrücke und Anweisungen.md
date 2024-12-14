@@ -1,0 +1,107 @@
+Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
+
+Letztes Kapitel: [[Kapitel 3 - Datentypen]]
+Nächstes Kapitel: [[Kapitel 5 - Objektorientierung]]
+# Lernziele
+- Sie kennen die Begriffe Ausdrücke und Anweisungen
+- Sie kennen die unterschiedlichen Arten von Operatoren
+    - arithmetisch
+    - relational
+    - logisch
+    - Zuweisung
+    - sonstige
+- Sie kennen die Verzweigungsmöglichkeiten mit der IF- und der SWITCH-Anweisung
+- Sie kennen die unterschiedlichen Schleifentypen
+    - kopfgesteuert
+    - fußgesteuert
+    - zählend
+- Sie kennen die break- und continue-Anweisung
+# Ausdrücke
+Ausdrücke sind die kleinste ausführbare Einheit in einem Programm
+Ausdrücke haben folgende Aufgaben: 
+- Variablen Werte zuzuweisen
+- numerische Berechnungen durchzuführen
+- logische Bedingungen zu formulieren
+Ausdrücke bestehen aus mindestens einem Operator und einem oder mehreren Operanden, auf die der Operator angewendet wird
+Unterscheidung der Operatoren nach dem Typ der Operanden
+- arithmetische Operatoren (+, -, \*, %, ++, -- )
+- relationale Operatoren
+	- ``==`` gleich; ``!=`` ungleich; "``<``,``>``, ``<=``, ``>=``"
+- logische Operatoren
+	- ``!`` logisches nicht; ``&&`` UND mit Short Circuit Evaluation; ``||`` ODER mit Short Circuit
+	- ``&``, ``|`` ohne Short Circuit Evaluation (beide Teilausdrücke werden ausgewertet)
+- (bitweise Operatoren)
+- Zuweisungsoperatoren
+	- ``=`` einfache Zuweisung
+	- ``/=`` Divisionszuweisung
+	- ``%=`` Modulozuweisung
+- sonstige Operatoren
+	- Der Fragezeichenoperator 
+```java
+	a ? b : c; // ==> results in b if a is true or c if a is false
+```
+- String Verkettung: mit dem ``+`` Operator können auch Strings verkettet werden
+## Anweisungen
+- die leere Anweisung:
+```
+;
+```
+Anweisungsblock
+- ist eine Zusammenfassung von Anweisungen
+- wird als einzelne Anweisung behandelt und wird dort verwendet, wo syntaktisch nur eine Anweisung erlaubt ist
+## Verzweigungen
+
+> [!attention] If Anweisung wurde hier übersprungen
+> (while Schleife; do while Schleife; for Schleife) 
+> ([Link zum Script](https://matthiasbergneels.github.io/md-scripts/01_Programmieren_Vorlesung/Programmierenskript_1.Semester.html#/35/1))
+
+**Switch Anweisung:**
+- bietet die Möglichkeit der Mehrfachverzweigung
+- Ablauf:
+	- der ausdruck wird zunächst ausgewertet
+	- das Ergebnis wird mit den Konstanten der case-Label verglichen und bei Gleichheit die Anweisung und alle nachstehenden Anweisungen ausgeführt (Fall-Through-Logik)
+	- dies kann durch Einsatz einer break-Anweisung verhindert werden
+	- jede Konstante darf nur einmal auftauchen
+	- gibt es keine passende Konstante, wird das optionale default-Label am Ende der switch-Anweisung angesprungen
+```JAVA
+switch (ausdruck) {
+  case constant1:
+    anweisung1;
+  case constant2:
+    anweisung2;
+  // …
+  default:
+    default_anweisung;}
+```
+**Switch Expression (Seit Java 14):**
+keine Fall-Through-Logik
+Einzelne Anweisung ODER Anweisungsblock pro Fall
+```Java
+int numLetters = switch (day) {
+    case MONDAY, FRIDAY, SUNDAY -> 6;
+    case TUESDAY -> 7;
+    default -> {
+      String s = day.toString();
+      int result = s.length();
+      yield result;
+    }
+};
+```
+
+**Schleife:**
+
+> [!attention] Schleifen wurden zu großen Teilen übersprungen
+> [Link zum Script](https://matthiasbergneels.github.io/md-scripts/01_Programmieren_Vorlesung/Programmierenskript_1.Semester.html#/36)
+
+- besondere For Schleife zum Durchlaufen von Feldern:
+```Java
+for ( Typ Bezeicher : Feld )
+```
+
+**Break und Continue Anweisung:**
+- beide Anweisungen dienen der Änderung des Ablaufs innerhalb von Schleifen
+- die break-Anweisung
+    - eine break-Anweisung innerhalb einer Schleife führt zum Verlassen der Schleife
+- die continue-Anweisung
+    - der aktuelle Schleifendurchlauf wird beendet und das Programm springt zum Ende der Schleife
+    - ein neuer Durchlauf der Schleife mit Prüfung der Abbruchbedingung beginnt

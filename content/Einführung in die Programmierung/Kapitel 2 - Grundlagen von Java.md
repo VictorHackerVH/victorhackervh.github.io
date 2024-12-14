@@ -1,3 +1,7 @@
+Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
+
+Letztes Kapitel: [[Kapitel 1 - Einführung]]
+Nächstes Kapitel: [[Kapitel 3 - Datentypen]]
 # Lernziele:
 - Sie können die Eigenschaften der Programmiersprache Java beschreiben
 - Sie kennen die Aufgaben von Compiler, Linker und Interpreter
@@ -8,6 +12,16 @@
 - Sie können Eclipse als Java-Entwicklungsumgebung einsetzen
 
 # Zusammenfassung
+## Klassifizierung von Software
+- unterschiedliche Softwarearten:
+	- Systemsoftware
+		- grundlegende Dienste für andere Programme
+		- Steuerung des Computersystems
+	- Entwicklungssoftware
+		- Erstellung und Modifikation von Programmen
+		- Übersetzungsprogramme für Programmiersprachen
+	- Anwendungssoftware
+		- u.a. Programme zur Verarbeitung der Daten, Spiele
 ## Eigenschaften von Java
 - vollständig objektorientiert
 - plattformunabhängig

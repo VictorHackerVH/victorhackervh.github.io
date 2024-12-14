@@ -1,3 +1,6 @@
+Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
+
+Nächstes Kapitel: [[Kapitel 2 - Grundlagen von Java]]
 # Lernziele
 - Sie können den Begriff Algorithmus definieren
 - Sie kennen die Eigenschaften und Bestandteile von Algorithmen
