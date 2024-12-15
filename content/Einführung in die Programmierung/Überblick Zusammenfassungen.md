@@ -34,4 +34,16 @@ Alle Zusammenfassungen für Programmieren:
 	- Objekte löschen
 	- Beziehungen zwischen Objekten
 - [[Kapitel 6 - Vererbung]]
+	- Eigenschaften der Vererbung
+	- Superklasse Object
+	- Sichtbarkeit von Methoden und Attributen
+	- Methoden überschreiben
+	- `abstract` und `final`
+	- `this` und `super`
+	- Narrowing Cast
+	- Widening Cast
+	- Polymorphie bei Vererbung
 - [[Kapitel 7 - Interfaces]]
+- Eigenschaften von Interfaces
+- Implementierung von Interfaces
+- Polymorphie über Interfaces
