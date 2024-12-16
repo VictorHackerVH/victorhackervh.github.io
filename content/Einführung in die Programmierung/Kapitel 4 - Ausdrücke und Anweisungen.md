@@ -1,7 +1,7 @@
-Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
+- Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
 
-Letztes Kapitel: [[Kapitel 3 - Datentypen]]
-Nächstes Kapitel: [[Kapitel 5 - Objektorientierung]]
+- Letztes Kapitel: [[Kapitel 3 - Datentypen]]
+- Nächstes Kapitel: [[Kapitel 5 - Objektorientierung]]
 # Lernziele
 - Sie kennen die Begriffe Ausdrücke und Anweisungen
 - Sie kennen die unterschiedlichen Arten von Operatoren
@@ -16,7 +16,26 @@ Nächstes Kapitel: [[Kapitel 5 - Objektorientierung]]
     - fußgesteuert
     - zählend
 - Sie kennen die break- und continue-Anweisung
+# Kontrollfragen
+1. Was verstehen Sie im Zusammenhang mit Programmierung unter dem Begriff „Ausdruck?
+2. Woraus setzen sich Ausdrücke zusammen?
+3. Zählen Sie unterschiedliche Operatoren auf! Unterscheiden Sie dabei die Operatoren nach dem Typ der Operanden!
+4. Erläutern Sie den Fragezeichenoperator anhand des folgenden Codings!
+
+```Java
+String X = (a == b) ? “Ja“ : “Nein“;
+```
+
+5. Definieren Sie den Begriff „Anweisung“ im Sinne der Programmierung!
+6. Welche Möglichkeiten bietet Ihnen die Programmiersprache Java, um Verzweigungen zu realisieren?
+7. Erläutern Sie den Begriff „dangling else“!
+8. Welche Bedeutung messen Sie der Break-Anweisung im Zusammenhang mit der Switch-Anweisung bei?
+9. Nennen Sie die unterschiedlichen Schleifenarten in Java und beschreiben Sie deren Verhalten!
+10. Worin besteht der wesentliche Unterschied zwischen einer kopf- und einer fußgesteuerten Schleife?
+11. Beschreiben Sie den Schleifenkopf einer For-Schleife!
+12. Was bewirken die Break- und die Continue-Anweisung innerhalb einer Schleife?
 # Ausdrücke
+(auch bei [[Kapitel 1 - Einführung#Programmierung Grundbegriffe|Grundbegriffe der Informatik]])
 Ausdrücke sind die kleinste ausführbare Einheit in einem Programm
 Ausdrücke haben folgende Aufgaben: 
 - Variablen Werte zuzuweisen
@@ -30,6 +49,7 @@ Unterscheidung der Operatoren nach dem Typ der Operanden
 - logische Operatoren
 	- ``!`` logisches nicht; ``&&`` UND mit Short Circuit Evaluation; ``||`` ODER mit Short Circuit
 	- ``&``, ``|`` ohne Short Circuit Evaluation (beide Teilausdrücke werden ausgewertet)
+	- `^` ergibt true, wenn beide Ausdrücke einen unterschiedlichen Wahrheitswert haben
 - (bitweise Operatoren)
 - Zuweisungsoperatoren
 	- ``=`` einfache Zuweisung
@@ -52,7 +72,6 @@ Anweisungsblock
 ## Verzweigungen
 
 > [!attention] If Anweisung wurde hier übersprungen
-> (while Schleife; do while Schleife; for Schleife) 
 > ([Link zum Script](https://matthiasbergneels.github.io/md-scripts/01_Programmieren_Vorlesung/Programmierenskript_1.Semester.html#/35/1))
 
 **Switch Anweisung:**

@@ -1,5 +1,5 @@
 
-> [!abstract] Dozent: Matthias Berg-Neels
+> [!abstract] Quelle:
 > https://matthiasbergneels.github.io/
 ## Zusammenfassung
 [[Überblick Zusammenfassungen]]

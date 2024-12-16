@@ -13,20 +13,40 @@ Nächstes Kapitel: [[Kapitel 6 - Vererbung]]
 - Sie kennen die Begriffe der Klassenattribute und –methoden.
 - Sie können Objekte mit dem Garbage Collector zerstören.
 - Sie kennen die Begriffe Assoziation, Aggregation und Komposition
+# Kontrollfragen
+1. Grenzen Sie die Begriffe Klasse und Objekt voneinander ab!
+2. Was beschreiben Attribute und Methoden?
+3. Wie werden Klassen in der UML dargestellt?
+4. Wie werden in Java Objekte erzeugt? Welche Rolle spielen dabei die Konstruktoren einer Klasse?
+5. Erläutern Sie den Begriff des Konstruktors!
+6. Beschreiben Sie das Konzept der Kapselung in der objektorientierten Programmierung!
+7. Welche unterschiedlichen Sichtbarkeitsmodifier sind Ihnen bekannt? Beschreiben Sie die Sichtbarkeit jedes Modifiers!
+8. Beschreiben Sie den Zugriff auf Instanzattribute und –methoden! Welche Rolle spielen dabei die Sichtbarkeitsmodifier?
+9. Unterscheiden Sie die Begriffe „call by value“ und „call by reference“!
+10. Was versteht man unter dem Begriff „überladen von Methoden“?
+11. Worin unterscheiden sich Klassenattribute und –methoden von Instanzattributen und -methoden?
+12. Die Klasse `java.lang.Math` stellt eine Sammlung von mathematischen Standardfunktionen dar, die allesamt als `static` definiert sind. Weil die Klasse über keine Instanzmethoden oder -variablen verfügt, wäre eine Erzeugung von Objekten dieser Klasse recht unsinnig. Um dies zu verhindern, haben ihre Programmierer einen Trick angewendet. Wie konnten sie eine Instanziierung verhindern, ohne die Klasse abstrakt zu definieren?
+13. Wie können Klassenmethoden auf den Instanzenkontext zugreifen?
+14. Erläutern Sie das Prinzip der Garbage Collection in Java!
+15. Was sind Destruktoren und wie werden Sie aufgerufen?
+16. Erläutern Sie die Begriffe Assoziation, Aggregation und Komposition! Wie werden die unterschiedlichen Beziehungen in der UML dargestellt?
 # Zusammenfassung
 ## Einführung in die Objektorientierung
 **Klassen**
 - Klassen bilden den Bauplan (die Schablone) für Objekte
 - nach dem Bauplan können mehrere Objekte erzeugt werden
+
 **Objekte**
 - stellen die sog. Instanz einer Klasse dar - werden aus dem Bauplan erstellt, und haben die Eigenschaften nach der Klasse
 - können erzeugt, verändert und zerstört werden
 - haben eine Identität und einen Zustand
+
 **Attribute**
 - beschreiben die Eigenschaften von Objekten
 - beschreiben den Zustand eines Objektes
 - sind Variablen oder Konstanten innerhalb eines Objektes
 - z.B. Was ein Objekt hat oder ist (blau, PS Anzahl)
+
 **Methoden**
 - beschreiben das Verhalten von Objekten
 - stellen die Funktionalität von Objekten dar
@@ -44,9 +64,9 @@ Zusätzliche Infos:
 - Klassenattribute werden durch Unterstreichung kenntlich gemacht
 - [[Kapitel 5 - Objektorientierung#Beziehungen zwischen Objekten|Assoziationen]] erfolgen durch eine einfache Verbindungslinie zwischen den Klassen
 	- ![[Programmieren_Assoziation_UML.png|300]]
-- Aggregationen erfolgen durch eine Linie mit einer Raute am Ende, wobei die Raute bei der Aggregatsklasse (dem Ganzen) angesiedelt
+- [[Kapitel 5 - Objektorientierung#Assoziation|Aggregationen]] erfolgen durch eine Linie mit einer Raute am Ende, wobei die Raute bei der Aggregatsklasse (dem Ganzen) angesiedelt
 	- ![[Programmieren_Aggregation_UML.png.png|300]]
-- Kompositionen erfolgen analog der Aggregation mit einer ausgefüllten Raute
+- [[Kapitel 5 - Objektorientierung#Assoziation|Kompositionen]] erfolgen analog der Aggregation mit einer ausgefüllten Raute
 	- ![[Programmieren_Komposition_UML.png.png|300]]
 - Kardinalität
 	- ![[Programmieren_Kardinalität_UML.png.png|300]]
@@ -76,7 +96,7 @@ Zusätzliche Infos:
 - Konstruktoren können dazu verwendet werden, um die Attribute zu initialisieren
 - Bei Neuerstellung von Klasse, bei der man keinen Konstruktor anlegt, gibt es einen Standard-Konstruktor, der die Parameter initialisiert und auf 0 / NULL setzt. 
 ## Beispiel für Implementierung einer Klasse
-```Java
+```java
 class Auto {
 
 //	Deklaration der Attribute
@@ -306,17 +326,19 @@ public enum CarBrand {
 ## Beziehungen zwischen Objekten
 ### Assoziation
 beschreibt die Struktur einer Menge von Beziehungen zwischen Objekten
+
 **Aggregation**
 - spezielle Form der Assoziation
 - ist eine Teil Beziehung
 - Aggregationen beschreiben keine existenzielle Bedürfnisse
 - Beispiel: Beziehung zwischen Güterwagon und Fracht; der Wagon existiert auch ohne Fracht
+
 **Komposition**
 - spezielle Form der Aggregation
 	- handelt sich ebenfalls um eine Teil Beziehung
 - die Existenz des Ganzen ist im Unterschied zur Aggregation von der Existenz des einzelnen Teils abhängig
 - Bsp: Güterzug kann nur dann existieren, wenn min. eine Zuglokomotive und min. ein Güterwagon existiert
-### Kardinalität#
+### Kardinalität
 Beschreibt die mengen- / zahlenmässige Ausprägung einer Beziehung
 
 | Kardinalität | Beschreibung                                                                                      |

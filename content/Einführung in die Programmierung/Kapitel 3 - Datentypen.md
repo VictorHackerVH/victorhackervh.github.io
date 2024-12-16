@@ -1,7 +1,7 @@
-Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
+- Alle Zusammenfassungen: [[Überblick Zusammenfassungen]]
 
-Letztes Kapitel: [[Kapitel 2 - Grundlagen von Java]]
-Nächstes Kapitel: [[Kapitel 4 - Ausdrücke und Anweisungen]]
+- Letztes Kapitel: [[Kapitel 2 - Grundlagen von Java]]
+- Nächstes Kapitel: [[Kapitel 4 - Ausdrücke und Anweisungen]]
 # Lernziele
 - Sie kennen die unterschiedlichen einfachen Datentypen in Java
 - Sie kennen die Wertebereiche der jeweiligen Datentypen
@@ -13,6 +13,19 @@ Nächstes Kapitel: [[Kapitel 4 - Ausdrücke und Anweisungen]]
 - Sie können Arrays in Java deklarieren
 - Sie kennen den theoretischen Umgang mit Referenzdatentypen
 - Sie kennen die speziellen Referenzdatentypen Array und String
+# Kontrollfragen
+1. Welche unterschiedlichen Datentypen kennen Sie in Java?
+2. Wie lassen sich diese Datentypen klassifizieren?
+3. Nennen Sie die numerischen Datentypen der Programmiersprache Java! Worin liegt der wesentliche Unterschied im Wertebereich?
+4. Wie können Variablen und Konstanten in Java deklariert initialisiert werden?
+5. Was ist der Unterschied zwischen einer Konstanten und einer Variablen?
+6. Erläutern Sie den Begriff „Literal“ am Beispiel der numerischen Literale!
+7. Was sind Escape-Sequenzen?
+8. Beschreiben Sie die Konvertierungsregeln in Java bzgl. Erweiternder und einschränkender Konvertierungen für einfache Datentypen!
+9. Was ist ein Array und wie ist dieses aufgebaut?
+10. Welche Aufgabe erfüllt das Attribut length bei einem Array?
+11. Worin unterscheidet sich die Deklaration eines Arrays von der Deklaration einer einfachen Variablen?
+12. Was sind Referenzdatentypen?
 # Zusammenfassung
 ## Arten von Datentypen
 - Primitive Datentypen
@@ -27,9 +40,20 @@ Nächstes Kapitel: [[Kapitel 4 - Ausdrücke und Anweisungen]]
 		- String: Verkettung von Character-Werten ⇒ Zeichenketten
 		- Array: Definition eines n-dimensionalen Feldes
 
-| Typname |     |
-| ------- | --- |
-| boolean |     |
+| Typname | Länge in Byte |
+| ------- | ------------- |
+| boolean | 1             |
+| char    | 2             |
+| byte    | 1             |
+| short   | 2             |
+| int     | 4             |
+| long    | 8             |
+| float   | 4             |
+| double  | 8             |
+
+> [!tip] Wertebereich kann aus Bytes abgeleitet werden
+> 1 Byte = 8 Bits, das erste Bit speichert das Vorzeichen, deswegen hat ein Short von 2 Bytes (=15 verfügbare Bits + 1 Bit für Vorzeichen) jeweils einen Wertebereich von -2$^{15}$ bzw.  2$^{15}$ -1 ('-1', wegen der Null)
+
 ## Deklaration von Variablen in Java
 **Deklaration von Variablen:**
 `Typname Variablenname;`
@@ -42,15 +66,18 @@ Deklaration mit Initialisierung:
 ## Literale 
 Ein Literal in der Programmiersprache bezeichnet fest definierte Zeichenfolge zur Darstellung von Werten für Basis-Datentypen.
 **Numerische Literale:**
+
 **Ganzzahlen:**
 - Dezimalliterale (Ziffern 0 bis 9)
 - Oktalliterale (Präfix 0, und dann Ziffern 0 bis 7)
 - Hexadezimalliterale (Präfix 0x, dann 0 bis 9 und A bis F
+
 **Fließkommazahlen:**
 - Besteht aus Vor- und Nachkommateil, getrennt durch einen Dezimalpunkt
 - Suffixe f und d durch float und double
 - Exponent wird durch ein E bzw. e eingeleitet
 - Vor- oder Nachkommateil darf ausgelassen werden
+
 **Alphanumerische Literale:**
 - boolean
 - char
@@ -70,6 +97,7 @@ Generelle Unterscheidung in erweiternde und einschränkende Konvertierung
 ![[Programmieren_Konvertierungsregeln.png]]
 
 ## Arrays in Java
+- Arrays sind (mehrdimensionale) Feldvariablen, die aus mehreren Elementen bestehen
 - semidynamisch: ihre Größe kann zur Laufzeit festgelegt, aber danach nicht mehr verändert werden
 - sind Objekte und bieten verschiedene Methoden
 - Deklaration gleich wie bei Variablen, nur eckige Klammern bei Typname oder an Variablennamen

@@ -118,7 +118,7 @@ public enum CarBrand {
 ## Polymorphie
 Die Polymorphie basiert genau auf diese Möglichkeiten des Narrowing und Widening Cast
 
-```Java
+```java
 Dog myDog = new Dog(50.0f, 65f, "Bello", "Schäferhund");
 
 
