@@ -61,7 +61,7 @@ Methoden überschreiben ≠ [[Kapitel 5 - Objektorientierung#Überladene Methode
 - erfordert zusätzliche Rechnerkapazität
 - `final`: verhindert explizit das überschreiben
 - überschreibende Methode muss mindestens so sichtbar wie die überschriebene Methode sein
-```Java
+```java
 public enum CarBrand {
   MERCEDES("$$$"),
   BMW("$$$"),

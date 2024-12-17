@@ -29,7 +29,7 @@ Letztes Kapitel: [[Kapitel 6 - Vererbung]]
 - ```class xyz implements abc{ } ```
 - eine Klasse kann mehrere Interfaces importieren
 - Objekte einer Klasse sind zu allen Interface-Datentypen kompatibel, sobald die Klasse das Interface implementiert z.B. alle Objekte der Klasse xyz könnten in Referenzvariablen vom Typ abc oder def gespeichert werden
-```JAVA
+```java
 Bookable[] vacationBookings = new Bookable[2];
 vacationBookings[0] = new Hotel(75);
 vacationBookings[1] = new Airplane(70);
@@ -38,7 +38,7 @@ vacationBookings[1] = new Airplane(70);
 - analog der [[Kapitel 6 - Vererbung#Polymorphie|Polymorphie über Klassen]], Unterschied:
 	- Polymorphie durch Vererbung (Klassen): Objekte einer Subklasse werden in Referenzvariablen vom Typ der Superklasse gespeichert
 	- Polymorphie durch Interfaces: Objekte der implementierenden Klasse werden in Referenzvariablen vom Typ des implementierten Interfaces gespeichert
-```JAVA
+```java
 Bookable[] vacationBookings = new Bookable[2];
 
 // Narrowing Cast

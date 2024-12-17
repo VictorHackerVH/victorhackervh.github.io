@@ -44,6 +44,6 @@ Alle Zusammenfassungen für Programmieren:
 	- Widening Cast
 	- Polymorphie bei Vererbung
 - [[Kapitel 7 - Interfaces]]
-	- Eigenschaften von Interfaces
-	- Implementierung von Interfaces
-	- Polymorphie über Interfaces
+- Eigenschaften von Interfaces
+- Implementierung von Interfaces
+- Polymorphie über Interfaces

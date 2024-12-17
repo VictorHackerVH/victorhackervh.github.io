@@ -22,7 +22,7 @@
 3. Zählen Sie unterschiedliche Operatoren auf! Unterscheiden Sie dabei die Operatoren nach dem Typ der Operanden!
 4. Erläutern Sie den Fragezeichenoperator anhand des folgenden Codings!
 
-```Java
+```java
 String X = (a == b) ? “Ja“ : “Nein“;
 ```
 
@@ -82,7 +82,7 @@ Anweisungsblock
 	- dies kann durch Einsatz einer break-Anweisung verhindert werden
 	- jede Konstante darf nur einmal auftauchen
 	- gibt es keine passende Konstante, wird das optionale default-Label am Ende der switch-Anweisung angesprungen
-```JAVA
+```java
 switch (ausdruck) {
   case constant1:
     anweisung1;
@@ -95,7 +95,7 @@ switch (ausdruck) {
 **Switch Expression (Seit Java 14):**
 keine Fall-Through-Logik
 Einzelne Anweisung ODER Anweisungsblock pro Fall
-```Java
+```java
 int numLetters = switch (day) {
     case MONDAY, FRIDAY, SUNDAY -> 6;
     case TUESDAY -> 7;
@@ -113,7 +113,7 @@ int numLetters = switch (day) {
 > [Link zum Script](https://matthiasbergneels.github.io/md-scripts/01_Programmieren_Vorlesung/Programmierenskript_1.Semester.html#/36)
 
 - besondere For Schleife zum Durchlaufen von Feldern:
-```Java
+```java
 for ( Typ Bezeicher : Feld )
 ```
 

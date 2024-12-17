@@ -142,7 +142,7 @@ class Auto {
 - ``public`` 
 	- von überall sichtbar
 	- normalerweise sind die Getter- und Setter-Methoden öffentlich, um auf private Attribute zuzugreifen
-```Java
+```java
 class Auto {
 
   // Deklaration der gekapselten Attribute
@@ -179,7 +179,7 @@ objektname.attribut;
 - call by value: Alle Parameter in Java
 - call by reference
 	- werden Referenzdatentypen (Objekte) übergeben, steht in der Methode die Referenz auf das Orginalobjekt zur Verfügung
-```Java
+```java
 class AutoTest {
     public static void main(String[] args) {
 
@@ -207,7 +207,7 @@ class AutoTest {
 - Ziel: gleichnamige Operationen können mit unterschiedlichen Datentypen als Parameter versorgt werden
 - gleichnamige Operationen können unterschiedliche Funktionalität zur Verfügung stellen
 - auch Konstruktoren können überladen werden
-```Java
+```java
 class Auto {
 
 //	Deklaration der gekapselten Attribute
@@ -241,7 +241,7 @@ class Auto {
 - `datentyp...` in der Methodensignatur
 - müssen am Ende der Übergabeparameter stehen
 - nur ein variables Argument pro Methode
-```Java
+```java
 public class VarargsExample {
     public void sumOfNumbers(int... numbers) {
         int sum = 0;
@@ -269,7 +269,7 @@ public class VarargsExample {
 > [!info] Static Methoden können NUR auf static Attribute zugreifen
 > Kein Zugriff auf Instanzattribute o.ä.
 
-```Java
+```java
 class Auto {
 
 //	Deklaration der gekapselten Attribute
@@ -300,7 +300,7 @@ class Auto {
 ## Enumeration
 - definiert eine Menge an gültigen Werten
 - Konstanten werden als Objekt der Enumklasse instanziiert. 
-```Java
+```java
 public enum CarBrand {
   MERCEDES("$$$"),
   BMW("$$$"),
