@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Zusammenfassung
 ---
 Milde Interessant: 
-- 
+- [[Einführung in die BWL Klausur]]
