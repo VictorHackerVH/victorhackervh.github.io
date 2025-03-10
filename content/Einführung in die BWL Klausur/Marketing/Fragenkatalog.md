@@ -1,0 +1,180 @@
+[[Marketing_WWI24SEA_Fragenkatalog_2024.pdf|Fragenkatalog]] 
+# Grundlagen
+## Begriffliche Grundlagen
+- Nennen Sie die fünf Akteure im Markt.
+	- Nachfrager (private Verbraucher und organisationale Kunden), Anbieter, Interessensvertretungen, Vertriebspartner, Staatliche Einrichtungen
+- Anhand welcher vier Kriterien können Märkte unterschieden werden?
+	- Nach Richtung der Transaktion (Beschaffungs- und Absatzmärkte), Nach Gütern (Konsumgütermärkte, B2B, Business Märkte, Märkte für Dienstleistungen), Nach regionaler Ausdehnung (Regionale Märkte, Ländermärkte, internationale Märkte, globale Märkte), Nach Machtverteilung (Käufermärkte, Verkäufermärkte)
+- Anhand welcher vier Kriterien kann der relevante Markt abgegrenzt werden?
+	- Anbieter (Bsp. Lebensmittelmarkt -> Unternehmen, die Lebensmittel vertreiben), Produkte (Bsp. Markt für Freizeitaktivitäten -> alle Produkte/Dienstleistungen für Freizeitgestaltung), Nachfrager (Bsp. Markt der vermögenden Privatkunden), Bedürfnisse (Bsp. Markt für Mobilität -> alle Bedürfnisse wie Zug fahren, Rad fahren etc.)
+## Einführung Marketing Mix
+- Welche vier Ps werden im Marketing-Mix unterschieden?
+	- Product (Produktpolitik), Price (Preispolitik), Place (Vertriebspolitik), Promotion (Kommunikationspolitik)
+# Konsumentenverhalten
+## Zentrale Konstrukte des Konsumentenverhalten
+- Stellen Sie den Zusammenhang zwischen Aktivierung und Leistung graphisch dar und zeichnen Sie die fünf Stufen ein. Bitte denken Sie daran, die Achsen zu beschriften. Erklären Sie zudem die Lambda-Hypothese in diesem Zusammenhang.
+	- ![[Marketing_Fragenkatalog_Aktivierungsgrad.png]]
+	- Lambda Hypothese: Bei zunehmender Stärke der Aktivierung steigt die Leistung zunächst und fällt ab einer bestimmten Aktivierungsstärke wieder.
+- (Ihre Auswahl) Nennen und erklären Sie drei Arten von Emotionen. Nennen Sie zudem jeweils ein Beispiel.
+	- **Affekt:** Situationsabhängiges kurzzeitiges Erleben mit starker körperlicher Beteiligung, Beispiel: Schreck
+	- **Leidenschaft:** Tendenziell situationsübergreifende, aber für Situationsimpulse sensible, intensive Gefühlslage, Beispiel: Begeisterung bei Sieg der eigenen Mannschaft eines Fußballfans
+	- **Stimmung:** Situationsübergreifende, relativ überdauernde emotionale Lage, Die als Hintergrundstimmung das individuelle Erleben prägt, Beispiel: gute oder schlechte Laune
+- Stellen Sie die Bedürfnispyramide nach Maslow graphisch dar und nennen Sie die fünf Stufen. Geben Sie zudem ein allgemeines Beispiel sowie ein Beispiel für das Ansprechen der Bedürfnisse durch das Marketing für jede der Stufen an.
+	- ![[Marketing_Fragenkatalog_MaslowsPyramide.png]]
+- Welche Arten von Einstellungen werden unterschieden? Nutzen Sie zur Beantwortung der Frage eine Graphik.
+	- ![[Marketing_Fragenkatalog_ArtenVonEinstellungen.png]]
+- Nennen Sie die fünf Charakteristika in Bezug zu Low-Involvement/High Involvement. Warum ist es nicht möglich, ein bestimmtes Produkt als Low-/High-Involvement-Produkt zu klassifizieren?
+	- Low Involvement: geringe wahrgenommene Wichtigkeit des Produktes; passives/wiederkehrendes Entscheidungsverhalten; Kauf basiert auf wenigen einfachen Kriterien; Kauf derjenigen Marke, die am wenigsten Probleme verursacht; Konsument sucht nach einem akzeptablen Niveau der Zufriedenheit
+	- High Involvement: hohe wahrgenommene Wichtigkeit des Produktes; aktiver/komplexer Kaufentscheidungsprozess; Kauf erfolgt nach ausführlichem Vergleich verschiedener Marken (viele Kriterien); Kauf derjenigen Marke, die am meisten Nutzen bringt; Konsument versucht, die Zufriedenheit zu maximieren
+	- Da Grad des Involvements maßgeblich abhängig ist von Persönlichkeit, Produkt und Situation
+- Nennen und beschreiben Sie die drei Umfeldfaktoren des Konsumentenverhaltens.
+	- Physisches Umfeld (natürliches Umfeld - z.B. Klima; vom Menschen geschaffenes Umfeld - z.B. Infrastruktur)
+	- Soziales Umfeld (näheres soziales Umfeld - z.B. Familie; weiteres soziales Umfeld - z.B. soziale Schicht)
+	- Kulturelles Umfeld (Werte, Normen, Haltungen, typische Verhaltensweisen; Sprache, Symbole, Religion)
+## Informationsverarbeitung
+- Nennen Sie die fünf Schritte der Informationsverarbeitung.
+	- Informationssuche -> Informationsaufnahme -> Informationsbeurteilung, Informationsspeicherung -> Informationsabruf 
+- Erläutern Sie ausführlich die zentralen Aussagen (nach Festinger) der Theorie der kognitiven Dissonanz.
+	- Individuen streben nach einem inneren (kognitiven) Gleichgewicht.
+	- Kognitives Gleichgewicht (Konsonanz) = kognitive Elemente (Wissen, Erfahrungen, Einstellungen, Meinungen) eines Individuums sind miteinander vereinbar
+	- Kognitives Ungleichgewicht (Dissonanz) wird als unangenehmer Zustand empfunden, der einen Druck zur Reduktion erzeugt.
+	- Je stärker die Dissonanz, desto stärker ist der Druck zur Dissonanzreduktion.
+	- Eine Reduktion der Dissonanz kann herbeigeführt werden durch
+		- Suche konsonanter Informationen, Vermeidung dissonanter Informationen, Interpretation von Informationen in dissonanzvermeidender Weise, Einstellungsänderung, Handlung
+## Kaufentscheidung
+- Stellen Sie anhand einer Graphik dar, welche vier Typen von Kaufentscheidungen unterschieden werden. Geben Sie für jeden Typ ein Beispiel. Bitte denken Sie daran, die Achsen zu beschriften.
+	- Der Typ der Kaufentscheidung bestimmt das Ausmaß der Informationsverarbeitung
+	- ![[Marketing_Fragenkatalog_Emtiononales Involvement.png]]
+- Erklären Sie das Confirmation-Disconfirmation Paradigma. Nutzen Sie zur Beantwortung der Frage eine Graphik.
+	- ![[Pasted image 20241106104935.png]]
+# Marktforschung
+## Grundlagen
+- Was sind die vier übergeordneten Ziele der Marktforschung?
+	- Kontinuierliche Verbesserung des entscheidungsrelevanten Informationsstandes der Entscheidungsträger im Hinblick auf: Aktualität, Objektivität, Präzision, Relevanz
+- Nennen Sie die sechs zentralen Erkenntnisobjekte der Marktforschung.
+	- Allgemeine Marktcharakteristika und -Entwicklungen (z.B. Marktvolumen)
+	- Kundensegmente (z.B. Identifikation der Segmente)
+	- Kundenverhalten und -Bedürfnisse (z.B. Identifikation der Kundenbedürfnisse)
+	- Kundenzufriedenheit und -loyalität (z.B. Analyse der Kundenloyalität)
+	- Wettbewerber (z.B. Marktposition der wichtigsten Wettbewerber)
+	- Marktposition (z.B. eigener Marktanteil)
+- Nennen und erklären Sie kurz die drei Gütekriterien der Marktforschung.
+	- Objektivität (Ergebnisse des Messvorgangs sind unabhängig vom Durchführenden; Mehrere Personen, die unabhängig voneinander die Messergebnisse registrieren, kommen zum gleichen Ergebnis.)
+	- Realibilität (Das Messverfahren ist frei von Zufallsfehlern; Bei Wiederholung der Messung unter gleichen Rahmenbedingungen wird das gleiche Messergebnis erzielt;)
+	- Validität (Das Messverfahren ist frei von systematischen Fehlern; Konzeptionelle Richtigkeit der Messung: Genau der tatsächlich interessierende Sachverhalt wird erfasst.)
+## Prozess der Marktforschung
+- Nennen Sie die zehn Schritte der Marktforschung.
+	- Problemformulierung, Festlegung des Untersuchungsdesigns, Bestimmung des Durchführenden, Festlegung der Datenerhebungsmethode, Stichprobenauswahl, Gestaltung des Erhebungsinstrumentes, Durchführung der Datenerhebung, Editierung und Kodierung der Daten, Datenanalyse und -interpretation, Präsentation der Ergebnisse
+- Nennen und erklären Sie kurz die drei Möglichkeiten in Hinblick auf die Festlegung des Untersuchungsdesigns.
+	- deskriptiv (Möglichst genaue Erfassung und Beschreibung der für die Untersuchungsthematik relevanten Tatbestände; Keine Untersuchung von Zusammenhängen zwischen Variablen)
+	- explorativ (Verständnis und Strukturierung der (meist noch relativ unerforschten) Untersuchungsthematik; Untersuchung von Zusammenhängen zwischen Variablen ohne vorheriges Formulieren von Hypothesen)
+	- explikativ (Untersuchung der Ursachen von beobachteten Phänomenen; Zusammenhänge zwischen Variablen werden auf Basis vorab formulierter Hypothesen betrachtet)
+- Geben Sie einen graphischen Überblick über die Möglichkeiten der Datengrundlage bei der Festlegung der Datenerhebungsmethode.
+	- ![[Pasted image 20241106111431.png]]
+- Welche vier grundlegenden Skalenniveaus können unterschieden werden? Erklären Sie zudem, was in diesem Zusammenhang „hierarchische Ordnung“ bedeutet.
+	- Nominalskalierung: Kategorisierung (Bsp.: Funktion im Unternehmen: Geschäftsführer, Marketingleiter, F&E-Leiter)
+	- Ordinalskalierung: Rangordnung, aber keine Distanzangaben möglich (Bsp.: Wie zufrieden sind Sie in Schulnoten: 1, 2, 3, 4, 5)
+	- Intervallskalierung: Distanzangaben, willkürliche Wahl des Skalennullpunktes, Verhältnisangaben nicht möglich (Bsp.: "5 Grad ist 2 Grad kälter als 7 Grad.“ Aber nicht: "10 Grad ist doppelt so warm wie 5 Grad.“)
+	- Ratioskalierung: Verhältnisangaben, da konstante Einheiten mit festem Skalennullpunkt („Jens ist mit einer Körpergröße von 1,80 m doppelt so groß wie seine kleine Schwester, die 0,90 m groß ist.“)
+	- Höheres Messniveau schließt die Eigenschaften des jeweils niedrigeren mit ein.
+- Was ist der Unterschied zwischen Editierung und Kodierung von Daten?
+	- **Editierung**: Sicherstellung, dass die benötigten Daten vorhanden, lesbar, fehlerfrei und vollständig sind; Entscheidung darüber, wie z.B. mit fehlenden Werten umgegangen werden soll.
+	- **Kodierung**: Prozess der Kategorisierung von Rohdaten, um deren Auswertung zu ermöglichen
+# Marketinginstrumente
+## Product
+- Vervollständigen Sie folgenden Satz: Definitionsversuche unterscheiden einen _substantiellen_ einen _erweiterten_ und einen _generischen_ Produktbegriff.
+- Nennen Sie die fünf Phasen des Innovationsprozesses.
+	- Ideengewinnung und -Konkretisierung
+	- Prüfung von Neuproduktideen
+	- Ideenauswahl
+	- Realisierung der ausgewählten Neuproduktideen
+	- Planung der Markeintrittsstrategie
+- Stellen Sie anhand einer Graphik dar, welche vier Typen von Innovationen unterschieden werden. Geben Sie für jeden Typ ein Beispiel. Bitte denken Sie daran, die Achsen zu beschriften.
+	- ![[Pasted image 20241106112711.png]]
+- Welche drei Strukturmerkmale unterscheiden ein Produktprogramm?
+	- Programmbreite
+	- Programmtiefe
+	- Programmkonsistenz
+- Grenzen Sie folgende drei Begrifflichkeiten voneinander ab, indem Sie die jeweilige Definition notieren: 
+	- **Produktvariation:** Unter einer Produktvariation verstehen wir die Modifikation von Eigenschaften eines bereits existierenden Produkts, wobei dessen Kernfunktionen nicht verändert werden.
+	- **Produktdifferenzierung:** Eine Produktdifferenzierung bezeichnet die Ergänzung eines bereits eingeführten Produkts um einen „Ableger“ bzw. eine neue Produktvariante
+	- **Diversifikation:** Im Zuge der Diversifikation nimmt das Unternehmen Produkte in das Produktprogramm auf, die in keinem direkten Zusammenhang mit dem bisherigen Produktprogramm stehen.
+## Price
+- Nennen Sie die vier grundlegenden Charakteristika preispolitischer Entscheidungen.
+	- Schnelle Umsetzbarkeit
+	- Schwere Revidierbarkeit
+	- Große Wirkungsstärke
+	- Hohe Wirkungsgeschwindigkeit
+- Welche sechs Entscheidungsfelder der Preispolitik werden unterschieden?
+	- Preisbestimmung für neue Produkte
+	- Preisbestimmung für das Produktprogramm
+	- Preisänderungen für bestehende Produkte
+	- Preisdifferenzierung
+	- Gestaltung des Rabatt- und Bonussystems
+	- Durchsetzung der Preise
+- Erläutern Sie den Unterschied zwischen der Skimming- und der Penetrationsstrategie.
+	- **Skimmingstrategie:** Angebot der Produkte in der Markteinführungsphase zu relativ hohen Preisen -> Abschöpfung von Zahlungsbereitschaften der Nachfrage -> schnelle Amortisation der Investitionen für die Produktentwicklung
+	- **Penetrationsstrategie:** Angebot der Produkte zu einem relativ geringen Preis -> rasche Diffusion des Produktes im Markt -> Erreichen eines hohen Marktanteils
+- Nennen Sie die drei Arten der Preisbestimmung und geben Sie zudem für jede der drei Arten zwei mögliche Instrumente an.
+	- **Nachfrageorientiert:** Preisbestimmung bei expliziter Verwendung der Preis-Absatz-Funktion, Sonderpreisaktionen
+	- **Kostenorientiert:** Preisuntergrenzen, Kosten-Plus-Preisbildung
+	- **Wettbewerbsorientiert:** Preiskriege, Preisbestimmung mit Hilfe von Leitpreisen
+- Wie kann die verhaltenswissenschaftliche Preistheorie von der klassischen Preistheorie abgegrenzt werden?
+	- Die verhaltenswissenschaftliche Preistheorie untersucht, wie Kunden Preise tatsächlich wahrnehmen, beurteilen, speichern und erinnern.
+	- Konsumentenverhalten weicht häufig systematisch davon ab, was gemäß der klassischen Preistheorie (Modellierung anhand Preis-Absatz-Funktion) zu erwarten wäre.
+	- Dieses Phänomen wird in der verhaltenswissenschaftlichen Preistheorie thematisiert, welche psychologische Faktoren im Entscheidungsverhalten der Konsumenten betont.
+- Welche Faktoren beeinflussen die Preisentscheidung? Nutzen Sie zur Beantwortung der Frage eine Graphik.
+	- ![[Marketing_Fragenkatalog_Preisentscheidung.png]]
+- Nennen Sie die sechs Implementationsformen der Preisdifferenzierung.
+	- **Personenbezogene Preisdifferenzierung:** Ein Museum gewährt Schülern und Studenten einen 50-prozentigen Rabatt.
+	- **Räumliche Preisdifferenzierung:** Eine Schachtel Aspirin kostet in Spanien weniger als in Deutschland
+	- **Zeitliche Preisdifferenzierung:** Der Preis eines Ferienhauses variiert in der Haupt- und Nebensaison.
+	- **Leistungsbezogene Preisdifferenzierung:** Economy Class, Business Class und First Class
+	- **Mengenbezogene Preisdifferenzierung:** (nichtlineare Preisbildung; Rabatt- und Bonussysteme) Ein Hotel bietet einen 14-tägigen Aufenthalt an, bei dem lediglich der Preis für 12 Tage zu entrichten ist.
+	- **Preisbündelung:** Menü kostet 5€, bei Einzelkauf wären es 4,5€
+## Promotion
+- Zeigen Sie (mithilfe einer Graphik) den idealtypischen Prozess der Kommunikationspolitik auf.
+	- ![[Pasted image 20241106122507.png]]
+- Grenzen Sie folgende grundlegende Begriffe voneinander ab: Kommunikationsbotschaft, -mittel und –träger.
+	- **Kommunikationsbotschaft**Aussage, die dem Umworbenen nahegelegt werden soll. (Bsp.: “Unsere Produkte haben hohe Qualität.”)
+	- **Kommunikationsmittel:** Mittel zur Präsentation einer Kommunikationsbotschaft. (Bsp.: Werbespot)
+	- **Kommunikationsträger/-medium:** Eingesetztes Medium, durch das eine bestimmte Kommunikationsbotschaft an den Empfänger der Kommunikation herangetragen wird. (Bsp.: : Durch einen Fernseher (Kommunikationsträger) wird eine Werbesendung (Kommunikationsmittel) bzw. ihre Aussage (Botschaft) an die Zuschauer herangetragen.)
+- Vervollständigen Sie folgende Sätze: _kommunikationspolitischer Ziele_ können anhand des AIDA-Modells kategorisiert werden. AIDA steht für _Attention_ _Interest_ _Desire_ _Action_. Dabei stehen die ersten drei für _potenzialbezogene_ Ziele; das letzte für _markerfolgsbezogenes_ Ziel.
+- Nennen Sie vier Instrumente der klassischen Mediawerbung.
+	- Printwerbung
+	- Fernseh- und Kinowerbung
+	- Radiowerbung
+	- Außenwerbung
+- (Ihre Auswahl) Nennen Sie vier weitere Kommunikationsinstrumente.
+	- Online-Marketing
+	- Mobile-Marketing
+	- Direktmarketing
+	- Verkaufsförderung
+- Vervollständigen Sie folgende Sätze: Bei der Budgetierung wird zwischen dem _heuristischen_ Ansatz und dem _analytischen_ Ansatz unterschieden. Beim _analytischen_ Ansatz können _Werbe-Response-Funktionen_ oder _Werbeelastizität_ genutzt werden. 
+## Place
+- Differenzieren Sie die grundlegende Vertriebswegentscheidung, indem Sie folgende Graphik (1 bis 9) ausfüllen.
+	- ![[Marketing_Fragenkatalog_Vertriebswegentscheidung.png]]
+	- ![[Pasted image 20241106124048.png]]
+- Nennen Sie jeweils zwei Vor- und Nachteile für den direkten und den indirekten Absatzweg.
+	- **direkter Absatzweg:** 
+		- **Vorteile:** unmittelbare Kontrolle des Absatzgeschehens, unmittelbare Kommunikation mit Endabnehmer
+		- **Nachteile:** hoher eigener absatzorganisatorischer Aufwand, keine Massendistribution möglich
+	- **indirekter Absatzweg:** 
+		- **Vorteile:** breite Massendistribution möglich, "Abwälzung“ der Absatzfunktion auf Handel/Absatzmittler
+		- **Nachteile:** kein unmittelbarer Zugriff auf das Absatzgeschehen, erschwerte Kommunikation (Informationsaustausch) mit Endabnehmer
+- Erklären Sie anhand von fünf Stichpunkten, was unter dem Key Account Management verstanden wird.
+	- bezeichnet die Gestaltung der wichtigsten Kundenbeziehungen eines Unternehmens
+	- ist ein Managementkonzept, das organisatorische und verkaufsstrategische Aspekte umfasst
+	- ist eine spezielle Beziehungspflege zu Key Accounts, z.B. Vorstand-zu-Vorstand- Kontakte
+	- bündelt alle kundenspezifischen Aufgaben bei einer organisatorischen Stelle, dem Key Account Manager oder dem KAM-Team,
+	- bietet spezielle Leistungen für Key Accounts, z.B. besondere Produktvarianten, besondere Services, gemeinsame Entwicklungsprojekte, international harmonisierte Preise, an.
+- Um Key Accounts zu selektieren werden zwei Arten von Kriterien unterschieden. Nennen Sie die beiden Arten von Kriterien. Geben Sie zudem für jede Art zwei Beispiele an.
+	- Proaktive Kriterien: u.a. Wirtschaftliches Potenzial des Kunden, Image des Kunden
+	- Reaktive Kriterien: Forderung des Kunden nach Key-Account-Status, Interne Probleme bei der Bearbeitung des Kunden
+- Nennen Sie die vier zentralen Phasen im persönlichen Verkauf.
+	- Vorbereitungsphase (informieren über Kunden)
+	- Gesprächseröffnungsphase (Vermittlung von positivem Bild)
+	- Kernphase (Verhandlungstaktische Überlegungen)
+	- Gesprächsabschlussphase (Zusammenfassung der wichtigsten besprochenen Punkte)
+- Stellen Sie anhand einer Graphik dar, welche vier Typen von Käufern unterschieden werden (=Käufertypologie). Bitte denken Sie daran, die Achsen zu beschriften.
+	- ![[Pasted image 20241106192230.png]]
